@@ -1,3 +1,4 @@
 # drafter-calculator-demo
-this is my first git 
-author-bhagwat chitale
+this is my first git repository.
+<br>
+Author-Bhagwat Chitale
